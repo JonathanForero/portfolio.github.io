@@ -1,0 +1,58 @@
+html {
+  background-image: url(images/bg.gif);
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;	
+	color: whitesmoke;
+}
+
+h1 {
+	font-size: 32px;
+  	font-family: Palatino, 'Palatino Linotype', serif;  
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+.hero {
+	padding: 200px 0;
+	margin: 30px;
+  	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  	background-image: url("images/poker.jpg");
+  	background-size: auto;
+  	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+  	color: #FFFFFF;
+}
+
+
+p {
+	font-size: 2rem;
+}
+
+.hero a {
+	color: #DF0101;  
+	font-size: 1.25em;
+	text-decoration: underline;
+}
+
+#footer{
+  font-size: 0.75rem;
+}
+
+.logo{
+	width: 35px;
+	height: 35px;
+}
+
+.tinyLogo{
+	width: 15px;
+	height: 15px;
+}
