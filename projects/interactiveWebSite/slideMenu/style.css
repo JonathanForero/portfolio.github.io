@@ -47,7 +47,6 @@ body {
 }
 
 .icon-close {
-  cursor: pointer;
   padding-left: 10px;
   padding-top: 10px;
 }
@@ -68,7 +67,8 @@ body {
   margin-right: 5px;
 }
 
-.closeIcon{
+.closeIcon{  
+  cursor: pointer;
   width: 30px;
   height: 30px;
 }
