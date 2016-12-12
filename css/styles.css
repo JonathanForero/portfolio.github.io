@@ -54,10 +54,15 @@ h1 {
   border: 3px solid #FFD733;
 }
 
+.skill-p5js {  
+  border: 3px solid #CC2EFA;
+}
+
 .skill-html,
 .skill-js,
 .skill-jquery,
-.skill-angularjs
+.skill-angularjs,
+.skill-p5js
  {
   width: 50%;
   padding: 1em 0em 3em 0em;
